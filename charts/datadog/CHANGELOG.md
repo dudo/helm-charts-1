@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.225.2
+
+* default to CNM direct send if >=7.81.0 ([#2742](https://github.com/DataDog/helm-charts/pull/2742)).
+
 ## 3.225.1
 
 * Update `fips.image.tag` to `1.1.27` fixing CVEs and updating packages.
